@@ -5,7 +5,7 @@ variable "region" {
 
 variable "prefix" {
   description = "prefix for resource names"
-  default     = "covidproj-val"
+  default     = "covid19"
 }
 
 variable "db_user" {
